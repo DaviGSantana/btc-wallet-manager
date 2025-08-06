@@ -1,4 +1,4 @@
-# 🪙 BTC Wallet Manager
+#  BTC Wallet Manager (ainda em desenvolvimento)
 
 Gerenciador simples de carteira Bitcoin em C usando comunicação RPC com um `bitcoind` local.
 
